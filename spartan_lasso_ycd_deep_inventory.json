@@ -1,0 +1,2334 @@
+[
+  {
+    "file": "ai_getup@directional@transition@prone_to_knees@lasso@loosen_feet.ycd.xml",
+    "dict_name": "ai_getup@directional@transition@prone_to_knees@lasso@loosen_feet",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/front.clip",
+      "pack:/back.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 2
+  },
+  {
+    "file": "ai_getup@directional@transition@prone_to_knees@lasso@loosen_hogtie.ycd.xml",
+    "dict_name": "ai_getup@directional@transition@prone_to_knees@lasso@loosen_hogtie",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/front.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 1
+  },
+  {
+    "file": "ai_getup@directional@transition@prone_to_knees@lasso@loosen_neck.ycd.xml",
+    "dict_name": "ai_getup@directional@transition@prone_to_knees@lasso@loosen_neck",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/back.clip",
+      "pack:/front.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 2
+  },
+  {
+    "file": "ai_getup@directional@transition@prone_to_knees@lasso@loosen_waist.ycd.xml",
+    "dict_name": "ai_getup@directional@transition@prone_to_knees@lasso@loosen_waist",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/front.clip",
+      "pack:/back.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 2
+  },
+  {
+    "file": "ai_getup@directional@transition@prone_to_seated@lasso@loosen_feet.ycd.xml",
+    "dict_name": "ai_getup@directional@transition@prone_to_seated@lasso@loosen_feet",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/front.clip",
+      "pack:/back.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 2
+  },
+  {
+    "file": "ai_getup@directional@transition@prone_to_seated@lasso@loosen_hogtie.ycd.xml",
+    "dict_name": "ai_getup@directional@transition@prone_to_seated@lasso@loosen_hogtie",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/front.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 1
+  },
+  {
+    "file": "ai_getup@directional@transition@prone_to_seated@lasso@loosen_neck.ycd.xml",
+    "dict_name": "ai_getup@directional@transition@prone_to_seated@lasso@loosen_neck",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/front.clip",
+      "pack:/back.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 2
+  },
+  {
+    "file": "ai_getup@directional@transition@prone_to_seated@lasso@loosen_waist.ycd.xml",
+    "dict_name": "ai_getup@directional@transition@prone_to_seated@lasso@loosen_waist",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/front.clip",
+      "pack:/back.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 2
+  },
+  {
+    "file": "ai_ragdoll@lasso.ycd.xml",
+    "dict_name": "ai_ragdoll@lasso",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/lasso_neck.clip",
+      "pack:/lasso_torso.clip",
+      "pack:/lasso_feet.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "DiRhKAA_0xB82E430B",
+      "FXNBaBA_0x1F30DCA7",
+      "RprtvcA_0xEDC3CBDC",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 3
+  },
+  {
+    "file": "mech_grapple@lasso@_male@_ambient@_healthy@mounted@_streamed.ycd.xml",
+    "dict_name": "mech_grapple@lasso@_male@_ambient@_healthy@mounted@_streamed",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/struggle_loop_success_att.clip",
+      "pack:/struggle_success_vic.clip",
+      "pack:/struggle_loop_mid_att.clip",
+      "pack:/struggle_success_att.clip",
+      "pack:/struggle_loop_success_vic.clip",
+      "pack:/struggle_loop_fail_att.clip",
+      "pack:/exit_standing_att.clip",
+      "pack:/exit_left_vic.clip",
+      "pack:/exit_facedown_vic.clip",
+      "pack:/struggle_loop_fail_vic.clip",
+      "pack:/struggle_enter_att.clip",
+      "pack:/struggle_loop_mid_vic.clip",
+      "pack:/struggle_exit_att.clip",
+      "pack:/exit_standing_vic.clip",
+      "pack:/exit_right_att.clip",
+      "pack:/exit_right_vic.clip",
+      "pack:/struggle_fail_vic.clip",
+      "pack:/struggle_enter_vic.clip",
+      "pack:/struggle_fail_att.clip",
+      "pack:/struggle_exit_vic.clip",
+      "pack:/exit_left_att.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_0",
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_7",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_6",
+      "biped_q5@biped@0_3",
+      "biped_q5@biped@0_8",
+      "biped_q5@biped@0_9",
+      "biped_q5@biped@0_4",
+      "biped_q5@biped@0_5",
+      "biped_q5@biped@0_10"
+    ],
+    "bone_refs": [
+      "SKEL_L_HAND",
+      "SKEL_NECK0",
+      "SKEL_R_HAND"
+    ],
+    "string_values": [
+      "SKEL_L_HAND",
+      "SKEL_NECK0",
+      "SKEL_R_HAND"
+    ],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "FhPjTVA_0x311D8A78",
+      "GFIDVGA_0xCD1B5DA1",
+      "JUorTGA_0x9CA35CD9",
+      "LPCEsHA_0x6DA3CA4F",
+      "NtfvOCA_0x232E551A",
+      "NyCBiMA_0xD56454B0",
+      "TJbDudA_0xDA922B2E",
+      "TTwwbBA_0x72C16FFB",
+      "TfvUVCA_0x14837CD2",
+      "TrjCvAA_0x67802E4B",
+      "UbgBpIA_0x1EFF20B5",
+      "VEuMYDA_0x550A14CF",
+      "WFQJkXA_0x1C8700EA",
+      "YDqSyAA_0x5E5E50EC",
+      "YsUmvEB_0xD49AFD2C",
+      "audio",
+      "drrWaSA_0x0FE8E637",
+      "eCGTjCA_0xB1A6754F",
+      "ibdbQoA_0x2A2A9556",
+      "jgIhUBA_0xE8703510",
+      "oHbWlUA_0x1972794A",
+      "rNKhUEA_0x726EEB4B",
+      "rRlyVHA_0x38E3200C",
+      "rVCfvCA_0x2DFCEE5F",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6",
+      "yfLRgBA_0x1465FB01"
+    ],
+    "duration_count": 21
+  },
+  {
+    "file": "mech_grapple@lasso@_male@_ambient@_healthy@mounted@intimidation@on_ass@_base.ycd.xml",
+    "dict_name": "mech_grapple@lasso@_male@_ambient@_healthy@mounted@intimidation@on_ass@_base",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/enter_left_att.clip",
+      "pack:/enter_front_att.clip",
+      "pack:/enter_right_vic.clip",
+      "pack:/enter_right_att.clip",
+      "pack:/enter_front_vic.clip",
+      "pack:/enter_left_vic.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_3",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [
+      "CP_L_Forearm",
+      "SKEL_NECK0"
+    ],
+    "string_values": [
+      "CP_L_Forearm",
+      "FACIAL_C_ADAMSAPPLE",
+      "SKEL_NECK0"
+    ],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "NtfvOCA_0x232E551A",
+      "NyCBiMA_0xD56454B0",
+      "QBMVCBA_0x17A7EF05",
+      "UbgBpIA_0x1EFF20B5",
+      "YsUmvEB_0xD49AFD2C",
+      "audio",
+      "drrWaSA_0x0FE8E637",
+      "oHbWlUA_0x1972794A",
+      "rRlyVHA_0x38E3200C",
+      "rVCfvCA_0x2DFCEE5F",
+      "rgDdTMA_0xABDA7D3E",
+      "vcoNjFA_0x0E2623A6",
+      "yfLRgBA_0x1465FB01"
+    ],
+    "duration_count": 6
+  },
+  {
+    "file": "mech_grapple@lasso@_male@_ambient@_healthy@mounted@intimidation@on_knees@_base.ycd.xml",
+    "dict_name": "mech_grapple@lasso@_male@_ambient@_healthy@mounted@intimidation@on_knees@_base",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/enter_front_att.clip",
+      "pack:/enter_right_vic.clip",
+      "pack:/enter_right_att.clip",
+      "pack:/enter_front_vic.clip",
+      "pack:/enter_left_vic.clip",
+      "pack:/enter_left_att.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_3",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [
+      "CP_L_Forearm",
+      "SKEL_NECK0"
+    ],
+    "string_values": [
+      "CP_L_Forearm",
+      "FACIAL_C_ADAMSAPPLE",
+      "SKEL_NECK0"
+    ],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "NtfvOCA_0x232E551A",
+      "NyCBiMA_0xD56454B0",
+      "QBMVCBA_0x17A7EF05",
+      "UbgBpIA_0x1EFF20B5",
+      "YsUmvEB_0xD49AFD2C",
+      "audio",
+      "drrWaSA_0x0FE8E637",
+      "oHbWlUA_0x1972794A",
+      "rRlyVHA_0x38E3200C",
+      "rVCfvCA_0x2DFCEE5F",
+      "rgDdTMA_0xABDA7D3E",
+      "vcoNjFA_0x0E2623A6",
+      "yfLRgBA_0x1465FB01"
+    ],
+    "duration_count": 6
+  },
+  {
+    "file": "mech_inventory@equip@fallback@base@lasso.ycd.xml",
+    "dict_name": "mech_inventory@equip@fallback@base@lasso",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/unholster.clip",
+      "pack:/holster.clip",
+      "pack:/w_unholster.clip",
+      "pack:/w_holster.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "prop_q5@tr3@0_0",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "BIrOUpA_0xE0C02E41",
+      "FXNBaBA_0x1F30DCA7",
+      "audio",
+      "mRPwBFA_0x7848BCF4",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 4
+  },
+  {
+    "file": "mech_inventory@equip@fallback@base@unarmed@satchel@lasso.ycd.xml",
+    "dict_name": "mech_inventory@equip@fallback@base@unarmed@satchel@lasso",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/unholster.clip",
+      "pack:/holster.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "BIrOUpA_0xE0C02E41",
+      "FXNBaBA_0x1F30DCA7",
+      "audio",
+      "mRPwBFA_0x7848BCF4",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 2
+  },
+  {
+    "file": "mech_inventory@equip@fallback@base@unarmed@satchel@lasso_gesture.ycd.xml",
+    "dict_name": "mech_inventory@equip@fallback@base@unarmed@satchel@lasso_gesture",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/unholster.clip",
+      "pack:/holster.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "BIrOUpA_0xE0C02E41",
+      "FXNBaBA_0x1F30DCA7",
+      "audio",
+      "mRPwBFA_0x7848BCF4",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 2
+  },
+  {
+    "file": "mech_inventory@equip@fallback@crouch@unarmed@satchel@lasso.ycd.xml",
+    "dict_name": "mech_inventory@equip@fallback@crouch@unarmed@satchel@lasso",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/unholster.clip",
+      "pack:/holster.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [
+      "ES_SatchelRoot"
+    ],
+    "tag_names": [
+      "BIrOUpA_0xE0C02E41",
+      "FXNBaBA_0x1F30DCA7",
+      "PXcQvmA_0x1216B0D8",
+      "audio",
+      "gHUIEBA_0xF6C5BD63",
+      "mRPwBFA_0x7848BCF4",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 2
+  },
+  {
+    "file": "mech_inventory@equip@fallback@first_person@unarmed@satchel@lasso_gesture.ycd.xml",
+    "dict_name": "mech_inventory@equip@fallback@first_person@unarmed@satchel@lasso_gesture",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/unholster.clip",
+      "pack:/holster.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "BIrOUpA_0xE0C02E41",
+      "FXNBaBA_0x1F30DCA7",
+      "audio",
+      "mRPwBFA_0x7848BCF4",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 2
+  },
+  {
+    "file": "mech_inventory@equip@vehicle@shared@seated@base@unarmed@satchel@lasso_gesture.ycd.xml",
+    "dict_name": "mech_inventory@equip@vehicle@shared@seated@base@unarmed@satchel@lasso_gesture",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/unholster.clip",
+      "pack:/holster.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "BIrOUpA_0xE0C02E41",
+      "FXNBaBA_0x1F30DCA7",
+      "audio",
+      "mRPwBFA_0x7848BCF4",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 2
+  },
+  {
+    "file": "mech_jump@arms@lasso.ycd.xml",
+    "dict_name": "mech_jump@arms@lasso",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/hand_grip.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 1
+  },
+  {
+    "file": "mech_melee@lasso@_male@_ambient@_healthy@_noncombat.ycd.xml",
+    "dict_name": "mech_melee@lasso@_male@_ambient@_healthy@_noncombat",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/shove_running_from_back_dist_far_v1_vic.clip",
+      "pack:/attack_kick_push_rightside_dist_close_v1.clip",
+      "pack:/takedown_hogtie_from_right_v1_att.clip",
+      "pack:/attack_kick_stomp_leftside_dist_far_v1.clip",
+      "pack:/shove_running_from_front_dist_far_v1_att.clip",
+      "pack:/attack_kick_stomp_rightside_dist_near_v1.clip",
+      "pack:/takedown_hogtie_from_back_v1_vic.clip",
+      "pack:/takedown_hogtie_from_front_v1_att.clip",
+      "pack:/shove_running_from_front_dist_near_v1_att.clip",
+      "pack:/attack_kick_push_leftside_dist_near_v1.clip",
+      "pack:/takedown_animal_kill_from_all_v1.clip",
+      "pack:/attack_kick_push_rightside_dist_med_v1.clip",
+      "pack:/takedown_hogtie_from_right_v1_vic.clip",
+      "pack:/takedown_hogtie_from_left_v1_att.clip",
+      "pack:/shove_running_from_back_dist_near_v1_att.clip",
+      "pack:/attack_kick_push_leftside_dist_far_v1.clip",
+      "pack:/takedown_hogtie_from_left_v1_vic.clip",
+      "pack:/takedown_hogtie_from_back_v1_att.clip",
+      "pack:/shove_running_from_front_dist_far_v1_vic.clip",
+      "pack:/attack_kick_stomp_leftside_dist_near_v1.clip",
+      "pack:/att_high_hook_dist_near_v2.clip",
+      "pack:/attack_kick_soccer_rightside_dist_med_v1.clip",
+      "pack:/shove_running_from_front_dist_near_v1_vic.clip",
+      "pack:/attack_kick_soccer_rightside_dist_far_v1.clip",
+      "pack:/shove_running_from_back_dist_near_v1_vic.clip",
+      "pack:/att_high_hook_dist_near_v1.clip",
+      "pack:/takedown_hogtie_from_front_v1_vic.clip",
+      "pack:/att_low_kick_dist_near_v1.clip",
+      "pack:/attack_kick_stomp_rightside_dist_med_v1.clip",
+      "pack:/attack_kick_soccer_rightside_dist_near_v1.clip",
+      "pack:/shove_running_from_back_dist_far_v1_att.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_4",
+      "biped_q5@biped@0_6",
+      "biped_q5@biped@0_7",
+      "biped_q5@biped@0_3",
+      "biped_q5@biped@0_5",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_8",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [
+      "SKEL_L_HAND",
+      "SKEL_R_HAND"
+    ],
+    "string_values": [
+      "SKEL_L_HAND",
+      "SKEL_R_HAND"
+    ],
+    "tag_names": [
+      "DKDfwPA_0x4977AB78",
+      "FOjaeSB_0xC38BDAB2",
+      "FXNBaBA_0x1F30DCA7",
+      "FcXykPA_0x95955F82",
+      "FhPjTVA_0x311D8A78",
+      "GFIDVGA_0xCD1B5DA1",
+      "JUorTGA_0x9CA35CD9",
+      "LPCEsHA_0x6DA3CA4F",
+      "NCtUtGA_0x58F8E7EB",
+      "NyCBiMA_0xD56454B0",
+      "QBMVCBA_0x17A7EF05",
+      "RGytFBA_0x52621F83",
+      "TJbDudA_0xDA922B2E",
+      "TTwwbBA_0x72C16FFB",
+      "TfvUVCA_0x14837CD2",
+      "UbgBpIA_0x1EFF20B5",
+      "VEuMYDA_0x550A14CF",
+      "WFQJkXA_0x1C8700EA",
+      "YsUmvEB_0xD49AFD2C",
+      "ZBoxCCA_0x5B76264C",
+      "amvtxZA_0x9C64DE00",
+      "audio",
+      "bdFXQCA_0x89B71A5C",
+      "cDCOXGA_0xC1E9C6E6",
+      "dRYdbBA_0x18BBDA93",
+      "drrWaSA_0x0FE8E637",
+      "eCGTjCA_0xB1A6754F",
+      "facial",
+      "ibdbQoA_0x2A2A9556",
+      "jgIhUBA_0xE8703510",
+      "jyHblDA_0x70727506",
+      "lAsWVGA_0xE912BF6E",
+      "ppygMHA_0xE34A0CB0",
+      "qhAZGHA_0xDFAFBD8C",
+      "rNKhUEA_0x726EEB4B",
+      "rRlyVHA_0x38E3200C",
+      "rutpiBA_0x7EA9DFC4",
+      "uSWoohA_0x3234DE90",
+      "uoXzVDA_0x3E141A7C",
+      "vDftgHA_0x64384347",
+      "vcoNjFA_0x0E2623A6",
+      "xSgbSHA_0x9312D206",
+      "yfLRgBA_0x1465FB01",
+      "zJQsVFA_0x7D508457"
+    ],
+    "duration_count": 31
+  },
+  {
+    "file": "mega_mech_grapple@lasso@male@mounted.ycd.xml",
+    "dict_name": "mega_mech_grapple@lasso@male@mounted",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/facedown_enter_right_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_back_running_trans_mount_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/facedown_enter_backleft_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_right_running_trans_mount_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_left_standing_trans_mount_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_left_running_trans_mount_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/facedown_enter_right_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_front_standing_trans_mount_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_right_standing_trans_mount_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/facedown_enter_backright_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/facedown_enter_front_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/struggle_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/trans_mount_to_lasso_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_front_standing_trans_mount_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/facedown_enter_left_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/struggle_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@loco@attacker/idle.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/facedown_enter_backright_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/trans_mount_to_lasso_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_front_running_trans_mount_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_left_running_trans_mount_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_right_standing_trans_mount_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/exit_front_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_back_standing_trans_mount_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/facedown_enter_left_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/exit_front_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/exit_back_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_front_running_trans_mount_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/facedown_enter_front_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/facedown_enter_backleft_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@loco@victim/idle.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_left_standing_trans_mount_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/exit_back_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_right_running_trans_mount_att.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_back_running_trans_mount_vic.clip",
+      "pack:/mech_grapple@lasso@_male@_ambient@_healthy@mounted@_base/running_tackle_from_back_standing_trans_mount_vic.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_11",
+      "biped_q5@biped@0_0",
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_7",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_3",
+      "biped_q5@biped@0_8",
+      "biped_q5@biped@0_6",
+      "biped_q5@biped@0_9",
+      "biped_q5@biped@0_4",
+      "biped_q5@biped@0_12",
+      "biped_q5@biped@0_5",
+      "biped_q5@biped@0_10"
+    ],
+    "bone_refs": [
+      "SKEL_L_HAND",
+      "SKEL_NECK0",
+      "SKEL_R_HAND"
+    ],
+    "string_values": [
+      "SKEL_L_HAND",
+      "SKEL_NECK0",
+      "SKEL_R_HAND"
+    ],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "GFIDVGA_0xCD1B5DA1",
+      "GcJhJTA_0x9B35027C",
+      "JUorTGA_0x9CA35CD9",
+      "LPCEsHA_0x6DA3CA4F",
+      "MDKXXUA_0x791FA6B3",
+      "NtfvOCA_0x232E551A",
+      "NyCBiMA_0xD56454B0",
+      "QBMVCBA_0x17A7EF05",
+      "RGytFBA_0x52621F83",
+      "TJbDudA_0xDA922B2E",
+      "TTwwbBA_0x72C16FFB",
+      "TfvUVCA_0x14837CD2",
+      "TrjCvAA_0x67802E4B",
+      "UbgBpIA_0x1EFF20B5",
+      "VEuMYDA_0x550A14CF",
+      "WFQJkXA_0x1C8700EA",
+      "YDqSyAA_0x5E5E50EC",
+      "YZDKmFA_0x806E4E51",
+      "YsUmvEB_0xD49AFD2C",
+      "ZgGPDCA_0xBD387FE4",
+      "audio",
+      "bQXVfLA_0x5B207E6D",
+      "cDCOXGA_0xC1E9C6E6",
+      "drrWaSA_0x0FE8E637",
+      "eCGTjCA_0xB1A6754F",
+      "oHbWlUA_0x1972794A",
+      "rNKhUEA_0x726EEB4B",
+      "rRlyVHA_0x38E3200C",
+      "rVCfvCA_0x2DFCEE5F",
+      "uSWoohA_0x3234DE90",
+      "vcoNjFA_0x0E2623A6",
+      "xSgbSHA_0x9312D206",
+      "yfLRgBA_0x1465FB01"
+    ],
+    "duration_count": 36
+  },
+  {
+    "file": "mega_mech_strafe@generic@lasso.ycd.xml",
+    "dict_name": "mega_mech_strafe@generic@lasso",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/mech_strafe@generic@lasso@high_tension/stop_slow_ccw.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_slow_bwd.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/stop_slow_bwd.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_fast_fwd.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/stop_fast_bwd.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/stop_fast_fwd.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_fast_bwd.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_slow_cw_close.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/stop_slow_ccw.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/start_fast_bwd_-135.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_cw_close.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/start_slow_bwd_135.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_slow_bwd.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_fast_cw_close.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/start_slow_fwd_-45.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/start_fast_cw.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_slow_ccw_close.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_slow_fwd.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/idle.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/stop_slow_cw.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/stop_fast_fwd.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_fast_ccw_close.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/start_fast_ccw.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_fast_bwd_-135.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/start_fast_bwd_-135.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/stop_slow_fwd.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_slow_fwd_45.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/start_fast_cw.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_slow_fwd_-45.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/dragged_intro.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_fast_fwd_-45.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_fast_cw_far.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_slow_fwd.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/idle.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_fast_fwd_45.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_fast_bwd_-135.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/start_slow_cw.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_slow_bwd_-135.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/start_slow_fwd_45.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/start_slow_bwd_-135.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_fast_bwd_135.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_slow_bwd_135.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/start_fast_bwd_135.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_slow_fwd_-45.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_fast_fwd_-45.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_fast_ccw_far.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_fast_fwd.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_slow_bwd_135.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_fast_bwd.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_slow_cw_far.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_slow_ccw_far.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_ccw_far.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/start_slow_ccw.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/start_fast_fwd_45.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/start_fast_fwd_-45.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_fast_fwd.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/stop_slow_bwd.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/stop_slow_cw.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_fast_bwd.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/start_fast_ccw.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/stop_fast_bwd.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_slow_cw_close.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/dragged_loop.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/start_slow_bwd_135.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/stop_slow_fwd.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_slow_fwd_45.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/stop_slow_ccw.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_fast_cw_close.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/start_slow_fwd_-45.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_slow_bwd.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_slow_ccw_close.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/stop_slow_cw.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/start_fast_ccw.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_fast_fwd_45.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/stop_fast_fwd.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_fast_ccw_close.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_slow_bwd_-135.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/stop_slow_fwd.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_fast_bwd_135.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_slow_fwd_45.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/start_fast_bwd_-135.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/start_fast_bwd_135.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/start_fast_cw.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_fast_fwd_45.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_fast_cw_far.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_slow_fwd.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/idle.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_slow_bwd_-135.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/start_slow_bwd_-135.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_fast_bwd_-135.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_fast_bwd_135.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/start_slow_cw.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/start_slow_fwd_45.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/start_fast_bwd_135.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_cw_far.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_slow_fwd_-45.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/start_fast_fwd_45.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_fast_fwd_-45.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_fast_ccw_far.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/start_fast_fwd_-45.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/move_ccw_close.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/stop_slow_bwd.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/move_slow_cw_far.clip",
+      "pack:/mech_strafe@generic@lasso@high_tension/stop_fast_bwd.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_slow_bwd_135.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/start_fast_fwd_45.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/move_slow_ccw_far.clip",
+      "pack:/mech_strafe@generic@lasso@low_tension/start_fast_fwd_-45.clip",
+      "pack:/mech_strafe@generic@lasso@mid_tension/start_slow_ccw.clip"
+    ],
+    "anim_names": [
+      "biped_q5_finger_q0@biped@0_4",
+      "biped_q5_finger_q0@biped@0_12",
+      "biped_q5@biped@0_0",
+      "biped_q5_finger_q0@biped@0_8",
+      "biped_q5_finger_q0@biped@0_7",
+      "biped_q5_finger_q0@biped@0_1",
+      "biped_q5_finger_q0@biped@0_10",
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5_finger_q0@biped@0_2",
+      "biped_q5_finger_q0@biped@0_5",
+      "biped_q5_finger_q0@biped@0_0",
+      "biped_q5_finger_q0@biped@0_11",
+      "biped_q5_finger_q0@biped@0_6",
+      "biped_q5_finger_q0@biped@0_9",
+      "biped_q5_finger_q0@biped@0_3"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "DiRhKAA_0xB82E430B",
+      "FXNBaBA_0x1F30DCA7",
+      "RprtvcA_0xEDC3CBDC",
+      "audio",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 109
+  },
+  {
+    "file": "mega_mech_weapons_special@lasso.ycd.xml",
+    "dict_name": "mega_mech_weapons_special@lasso",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/mech_weapons_special@lasso@base@swing@sweep/aim_med_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_med_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@pull@tighten_rope/release_fb_bwd_-135.clip",
+      "pack:/mech_weapons_special@lasso@base@pull@tighten_rope/release_fb_left_-45.clip",
+      "pack:/mech_weapons_special@lasso/idle_2_aim_fwd_med.clip",
+      "pack:/mech_weapons_special@lasso@base@release_wait@sweep/aim_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep/aim_med_0_intro.clip",
+      "pack:/mech_weapons_special@lasso@base@pull@tighten_rope/release_fb_right_45.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@swing_to_ready/aim_transition_0.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@reelin_empty_to_ready/aim_transition_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@sweep/w_aim_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_extreme_med_l90.clip",
+      "pack:/mech_weapons_special@loco@arthur@crouch@lasso@idle/idle.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@reelin_heavy_to_reelin/aim_transition_0.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_fb_right_135.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep/aim_med_r180_intro.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_fb_fwd_45.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_fb_left_-135.clip",
+      "pack:/mech_weapons_special@lasso@base@release_wait@sweep/aim_med_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@reelin/loosen_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep/aim_med_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@swing_to_ready/aim_transition_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_extreme_med_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@pull@tighten_rope/release_fb_bwd_135.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@reelin_heavy_to_reelin/aim_transition_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_med_0.clip",
+      "pack:/mech_weapons_special@loco@arthur@crouch@lasso@walk/move.clip",
+      "pack:/mech_weapons_special@lasso@base@pull@tighten_rope/release_fb_fwd_-45.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@reelin_to_reelin_heavy/aim_transition_0.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_med_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep/aim_med_r90_intro.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep/aim_med_l90_intro.clip",
+      "pack:/mech_weapons_special@lasso@base@reelin/yank_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_fb_bwd_-135.clip",
+      "pack:/mech_weapons_special@lasso@base@reelin_heavy/aim_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_fb_left_-45.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@sweep/aim_med_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_med_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep/idle.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@reelin_to_reelin_heavy/aim_transition_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@ready_to_swing/aim_transition_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@ready_to_reelin/aim_transition_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_fb_right_45.clip",
+      "pack:/mech_weapons_special@lasso@base@pull@tighten_rope/release_fb_right_135.clip",
+      "pack:/mech_weapons_special@loco@arthur@crouch@lasso@run/move.clip",
+      "pack:/mech_weapons_special@lasso@base@reelin_heavy/aim_med_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@pull@tighten_rope/release_fb_left_-135.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@reelin_to_ready/aim_transition_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_fb_fwd_45.clip",
+      "pack:/mech_weapons_special@loco@arthur@normal@lasso@run/move.clip",
+      "pack:/mech_weapons_special@lasso@base@release_wait@sweep/aim_med_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@reelin/reelin_empty_med_quick_0.clip",
+      "pack:/mech_weapons_special@loco@arthur@normal@lasso@walk/move.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_fb_bwd_135.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_extreme_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@reelin/aim_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@pull@tighten_rope/release_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_fb_fwd_-45.clip",
+      "pack:/mech_weapons_special@loco@arthur@normal@lasso@sprint/move.clip",
+      "pack:/mech_weapons_special@lasso@base@pull@tighten_rope/release_med_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep/aim_med_0_outro.clip",
+      "pack:/mech_weapons_special@lasso@base@reelin/aim_med_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@ready_to_swing/aim_transition_0.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@reelin_empty_to_ready/aim_transition_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@ready_to_reelin/aim_transition_0.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep@intro@sweep/aim_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@pull@tighten_rope/release_med_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_fb_bwd_-135.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep/aim_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_fb_left_-45.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_extreme_med_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@reelin_to_ready/aim_transition_0.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_fb_right_135.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_fb_right_45.clip",
+      "pack:/mech_weapons_special@lasso@base@pull@tighten_rope/release_fb_fwd_45.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@ready_to_swing/aim_transition_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_fb_left_-135.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@swing_to_ready/aim_transition_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@ready_to_reelin/aim_transition_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@reelin_heavy/aim_med_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep/aim_med_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep@intro@sweep/aim_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@reelin_heavy_to_reelin/aim_transition_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_extreme_med_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@reelin_to_ready/aim_transition_l90.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep@intro@sweep/aim_l180.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep@intro@sweep/aim_r180.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_fb_bwd_135.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_extreme_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@reelin/reelin_pull_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@reelin/reelin_empty_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@sweep/aim_med_0.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep@intro@sweep/aim_0.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@release/release_med_r90.clip",
+      "pack:/mech_weapons_special@lasso@base@swing@release/release_fb_fwd_-45.clip",
+      "pack:/mech_weapons_special@lasso@base@ready@sweep/aim_med_l180_intro.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@reelin_empty_to_ready/aim_transition_0.clip",
+      "pack:/mech_weapons_special@lasso@base@trans@reelin_to_reelin_heavy/aim_transition_r90.clip",
+      "pack:/mech_weapons_special@loco@arthur@normal@lasso@idle/idle.clip",
+      "pack:/mech_weapons_special@lasso@base@reelin/aim_med_l90.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_16",
+      "biped_q5@biped@0_11",
+      "biped_q5@biped@0_0",
+      "prop_q7@tr3@0_0",
+      "biped_q5@biped@0_22",
+      "biped_q5@biped@0_24",
+      "biped_q5@biped@0_13",
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_20",
+      "biped_q5@biped@0_7",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_17",
+      "biped_q5@biped@0_15",
+      "biped_q5@biped@0_8",
+      "biped_q5@biped@0_6",
+      "biped_q5@biped@0_3",
+      "biped_q5@biped@0_9",
+      "biped_q5@biped@0_4",
+      "biped_q5@biped@0_21",
+      "biped_q5@biped@0_19",
+      "biped_q5@biped@0_12",
+      "biped_q5@biped@0_14",
+      "biped_q5@biped@0_18",
+      "biped_q5@biped@0_23",
+      "biped_q5@biped@0_5",
+      "biped_q5@biped@0_10"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "AlFhDLA_0xA5F6D578",
+      "DiRhKAA_0xB82E430B",
+      "FXNBaBA_0x1F30DCA7",
+      "JVtZpEA_0x9957219F",
+      "RprtvcA_0xEDC3CBDC",
+      "audio",
+      "fire",
+      "lJNsmAA_0xFFFA27B8",
+      "object",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 101
+  },
+  {
+    "file": "script_mp@introflow@soloonfoot@lasso.ycd.xml",
+    "dict_name": "script_mp@introflow@soloonfoot@lasso",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/lasso_b_f_lasso_noose.clip",
+      "pack:/lasso_c_f_female.clip",
+      "pack:/lasso_b_m_lasso_bundle.clip",
+      "pack:/lasso_b_m_male.clip",
+      "pack:/lasso_a_m_male.clip",
+      "pack:/lasso_a_m_lasso_rope.clip",
+      "pack:/lasso_b_f_female.clip",
+      "pack:/lasso_a_m_lasso_noose.clip",
+      "pack:/lasso_b_m_lasso_rope.clip",
+      "pack:/lasso_a_f_lasso_bundle.clip",
+      "pack:/lasso_c_m_lasso_bundle.clip",
+      "pack:/lasso_b_f_lasso_rope.clip",
+      "pack:/lasso_c_f_lasso_bundle.clip",
+      "pack:/lasso_b_m_lasso_noose.clip",
+      "pack:/lasso_c_f_lasso_rope.clip",
+      "pack:/lasso_a_m_lasso_bundle.clip",
+      "pack:/lasso_a_f_lasso_rope.clip",
+      "pack:/lasso_c_m_lasso_rope.clip",
+      "pack:/lasso_c_m_lasso_noose.clip",
+      "pack:/lasso_c_f_lasso_noose.clip",
+      "pack:/lasso_a_f_female.clip",
+      "pack:/lasso_c_m_male.clip",
+      "pack:/lasso_b_f_lasso_bundle.clip",
+      "pack:/lasso_a_f_lasso_noose.clip"
+    ],
+    "anim_names": [
+      "cinematic_q5@female@0_0",
+      "cinematic_q5@female@0_1",
+      "prop_q8@tr3@0_1",
+      "prop_q8@tr3@0_2",
+      "cinematic_q5@biped@0_0",
+      "cinematic_q5@biped@0_1",
+      "cinematic_q5@tr3@0_0",
+      "prop_q8@tr3@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 24
+  },
+  {
+    "file": "script_mp@introflow@soloonhorse@lasso.ycd.xml",
+    "dict_name": "script_mp@introflow@soloonhorse@lasso",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/solo_lasso_b_lasso_bundle.clip",
+      "pack:/solo_lasso_a_lasso_rope.clip",
+      "pack:/solo_lasso_a_lasso_loop.clip",
+      "pack:/solo_lasso_c_mp_female_head.clip",
+      "pack:/solo_lasso_a_mp_female.clip",
+      "pack:/solo_lasso_c_mp_male.clip",
+      "pack:/solo_lasso_b_lasso_loop.clip",
+      "pack:/solo_lasso_c_lasso_bundle.clip",
+      "pack:/solo_lasso_c_lasso_loop.clip",
+      "pack:/solo_lasso_a_mp_male.clip",
+      "pack:/solo_lasso_b_mp_male.clip",
+      "pack:/solo_lasso_b_mp_female.clip",
+      "pack:/solo_lasso_b_lasso_rope.clip",
+      "pack:/solo_lasso_c_lasso_rope.clip",
+      "pack:/solo_lasso_c_mp_female.clip",
+      "pack:/solo_lasso_a_lasso_bundle.clip"
+    ],
+    "anim_names": [
+      "cinematic_q5@female@0_0",
+      "cinematic_q5@female@0_1",
+      "cinematic_q5@biped@0_3",
+      "cinematic_q5@biped@0_4",
+      "cinematic_q5@biped@0_0",
+      "cinematic_q5@biped@0_1",
+      "cinematic_q5@biped@0_2",
+      "cinematic_q5@tr3@0_2",
+      "cinematic_q5@tr3@0_0",
+      "cinematic_q5@tr3@0_1"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 16
+  },
+  {
+    "file": "script_mp@introflow@teamonfoot@lassos.ycd.xml",
+    "dict_name": "script_mp@introflow@teamonfoot@lassos",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/female_13_lassos_enter_f_player_face.clip",
+      "pack:/male_0_lassos_enter_bundle.clip",
+      "pack:/female_3_lassos_enter_bundle.clip",
+      "pack:/female_14_lassos_enter_f_player_face.clip",
+      "pack:/female_9_lassos_enter_noose.clip",
+      "pack:/female_6_lassos_enter_f_player.clip",
+      "pack:/female_5_lassos_enter_bundle.clip",
+      "pack:/female_12_lassos_enter_bundle.clip",
+      "pack:/male_6_lassos_enter_m_player_face.clip",
+      "pack:/female_5_lassos_enter_noose.clip",
+      "pack:/male_13_lassos_enter_m_player.clip",
+      "pack:/female_5_lassos_enter_f_player.clip",
+      "pack:/male_0_lassos_enter_m_player_face.clip",
+      "pack:/female_13_lassos_enter_f_player.clip",
+      "pack:/male_10_lassos_enter_bundle.clip",
+      "pack:/male_10_lassos_enter_m_player_face.clip",
+      "pack:/female_4_lassos_enter_f_player.clip",
+      "pack:/male_4_lassos_enter_m_player.clip",
+      "pack:/female_4_lassos_enter_bundle.clip",
+      "pack:/male_12_lassos_enter_m_player.clip",
+      "pack:/female_2_lassos_enter_f_player_face.clip",
+      "pack:/male_5_lassos_enter_m_player_face.clip",
+      "pack:/male_8_lassos_enter_m_player.clip",
+      "pack:/male_6_lassos_enter_m_player.clip",
+      "pack:/male_7_lassos_enter_m_player_face.clip",
+      "pack:/female_4_lassos_enter_noose.clip",
+      "pack:/male_11_lassos_enter_noose.clip",
+      "pack:/female_2_lassos_enter_bundle.clip",
+      "pack:/male_2_lassos_enter_m_player.clip",
+      "pack:/female_14_lassos_enter_f_player.clip",
+      "pack:/female_2_lassos_enter_f_player.clip",
+      "pack:/male_11_lassos_enter_m_player.clip",
+      "pack:/female_11_lassos_enter_f_player_face.clip",
+      "pack:/female_9_lassos_enter_bundle.clip",
+      "pack:/female_10_lassos_enter_f_player.clip",
+      "pack:/male_0_lassos_enter_m_player.clip",
+      "pack:/male_12_lassos_enter_bundle.clip",
+      "pack:/female_7_lassos_enter_f_player.clip",
+      "pack:/male_2_lassos_enter_m_player_face.clip",
+      "pack:/female_1_lassos_enter_f_player_face.clip",
+      "pack:/female_15_lassos_enter_f_player.clip",
+      "pack:/male_4_lassos_enter_m_player_face.clip",
+      "pack:/male_0_lassos_enter_noose.clip",
+      "pack:/male_7_lassos_enter_noose.clip",
+      "pack:/male_1_lassos_enter_noose.clip",
+      "pack:/female_8_lassos_enter_f_player_face.clip",
+      "pack:/male_13_lassos_enter_m_player_face.clip",
+      "pack:/male_13_lassos_enter_bundle.clip",
+      "pack:/male_4_lassos_enter_bundle.clip",
+      "pack:/male_1_lassos_enter_bundle.clip",
+      "pack:/male_11_lassos_enter_m_player_face.clip",
+      "pack:/male_8_lassos_enter_bundle.clip",
+      "pack:/male_7_lassos_enter_m_player.clip",
+      "pack:/male_15_lassos_enter_m_player_face.clip",
+      "pack:/male_10_lassos_enter_noose.clip",
+      "pack:/female_6_lassos_enter_f_player_face.clip",
+      "pack:/female_8_lassos_enter_bundle.clip",
+      "pack:/female_15_lassos_enter_f_player_face.clip",
+      "pack:/male_2_lassos_enter_bundle.clip",
+      "pack:/male_1_lassos_enter_rope.clip",
+      "pack:/male_5_lassos_enter_m_player.clip",
+      "pack:/male_5_lassos_enter_bundle.clip",
+      "pack:/female_0_lassos_enter_noose.clip",
+      "pack:/male_2_lassos_enter_rope.clip",
+      "pack:/female_12_lassos_enter_f_player.clip",
+      "pack:/female_7_lassos_enter_noose.clip",
+      "pack:/female_6_lassos_enter_noose.clip",
+      "pack:/male_1_lassos_enter_m_player_face.clip",
+      "pack:/female_3_lassos_enter_f_player_face.clip",
+      "pack:/male_11_lassos_enter_bundle.clip",
+      "pack:/male_15_lassos_enter_m_player.clip",
+      "pack:/male_10_lassos_enter_m_player.clip",
+      "pack:/female_15_lassos_enter_bundle.clip",
+      "pack:/female_0_lassos_enter_f_player_face.clip",
+      "pack:/female_1_lassos_enter_f_player.clip",
+      "pack:/male_14_lassos_enter_m_player.clip",
+      "pack:/female_0_lassos_enter_f_player.clip",
+      "pack:/male_3_lassos_enter_bundle.clip",
+      "pack:/male_12_lassos_enter_m_player_face.clip",
+      "pack:/male_8_lassos_enter_noose.clip",
+      "pack:/female_8_lassos_enter_noose.clip",
+      "pack:/female_8_lassos_enter_f_player.clip",
+      "pack:/female_5_lassos_enter_f_player_face.clip",
+      "pack:/female_3_lassos_enter_noose.clip",
+      "pack:/female_6_lassos_enter_bundle.clip",
+      "pack:/male_8_lassos_enter_m_player_face.clip",
+      "pack:/male_3_lassos_enter_m_player.clip",
+      "pack:/female_3_lassos_enter_f_player.clip",
+      "pack:/female_1_lassos_enter_bundle.clip",
+      "pack:/female_13_lassos_enter_noose.clip",
+      "pack:/female_14_lassos_enter_bundle.clip",
+      "pack:/male_2_lassos_enter_noose.clip",
+      "pack:/male_0_lassos_enter_rope.clip",
+      "pack:/male_3_lassos_enter_m_player_face.clip",
+      "pack:/male_15_lassos_enter_bundle.clip",
+      "pack:/female_0_lassos_enter_rope.clip",
+      "pack:/male_5_lassos_enter_noose.clip",
+      "pack:/female_1_lassos_enter_noose.clip",
+      "pack:/female_7_lassos_enter_bundle.clip",
+      "pack:/male_3_lassos_enter_noose.clip",
+      "pack:/female_15_lassos_enter_noose.clip",
+      "pack:/male_9_lassos_enter_bundle.clip",
+      "pack:/female_12_lassos_enter_f_player_face.clip",
+      "pack:/female_0_lassos_enter_bundle.clip",
+      "pack:/female_10_lassos_enter_noose.clip",
+      "pack:/female_2_lassos_enter_noose.clip",
+      "pack:/female_12_lassos_enter_noose.clip",
+      "pack:/male_9_lassos_enter_m_player.clip",
+      "pack:/male_7_lassos_enter_bundle.clip",
+      "pack:/female_10_lassos_enter_bundle.clip",
+      "pack:/female_11_lassos_enter_f_player.clip",
+      "pack:/female_13_lassos_enter_bundle.clip",
+      "pack:/male_14_lassos_enter_bundle.clip",
+      "pack:/female_7_lassos_enter_f_player_face.clip",
+      "pack:/female_11_lassos_enter_noose.clip",
+      "pack:/female_10_lassos_enter_f_player_face.clip",
+      "pack:/male_9_lassos_enter_m_player_face.clip",
+      "pack:/female_4_lassos_enter_f_player_face.clip",
+      "pack:/male_1_lassos_enter_m_player.clip",
+      "pack:/female_9_lassos_enter_f_player_face.clip",
+      "pack:/female_9_lassos_enter_f_player.clip",
+      "pack:/male_14_lassos_enter_m_player_face.clip",
+      "pack:/female_14_lassos_enter_noose.clip",
+      "pack:/female_11_lassos_enter_bundle.clip",
+      "pack:/male_6_lassos_enter_bundle.clip"
+    ],
+    "anim_names": [
+      "prop_q5@tr3@0_3",
+      "cinematic_q5@female@0_1",
+      "cinematic_q5@female@0_0",
+      "cinematic_q5@biped@0_5",
+      "cinematic_q5@biped@0_2",
+      "cinematic_q5@female@0_7",
+      "prop_q5@tr3@0_1",
+      "cinematic_q5@biped@0_1",
+      "cinematic_q5@female@0_4",
+      "cinematic_q5@female@0_6",
+      "cinematic_q5@biped@0_6",
+      "cinematic_q5@biped@0_7",
+      "prop_q5@tr3@0_2",
+      "cinematic_q5@biped@0_4",
+      "cinematic_q5@biped@0_3",
+      "prop_q5@tr3@0_7",
+      "cinematic_q5@female@0_2",
+      "cinematic_q5@female@0_3",
+      "cinematic_q5@female@0_5",
+      "prop_q5@tr3@0_5",
+      "prop_q5@tr3@0_0",
+      "prop_q5@tr3@0_4",
+      "prop_q5@tr3@0_6",
+      "cinematic_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 125
+  },
+  {
+    "file": "script_mp@introflow@teamonhorse@lassos.ycd.xml",
+    "dict_name": "script_mp@introflow@teamonhorse@lassos",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/intro_team_horse_lassos_female5.clip",
+      "pack:/intro_team_horse_lassos_female1.clip",
+      "pack:/intro_team_horse_lassos_lassoloop2.clip",
+      "pack:/intro_team_horse_lassos_male12.clip",
+      "pack:/intro_team_horse_lassos_female4.clip",
+      "pack:/intro_team_horse_lassos_male6.clip",
+      "pack:/intro_team_horse_lassos_female2.clip",
+      "pack:/intro_team_horse_lassos_lasso11.clip",
+      "pack:/intro_team_horse_lassos_female10.clip",
+      "pack:/intro_team_horse_lassos_male4_face.clip",
+      "pack:/intro_team_horse_lassos_lasso13.clip",
+      "pack:/intro_team_horse_lassos_female13_face.clip",
+      "pack:/intro_team_horse_lassos_lassoloop3.clip",
+      "pack:/intro_team_horse_lassos_lasso9.clip",
+      "pack:/intro_team_horse_lassos_lasso5.clip",
+      "pack:/intro_team_horse_lassos_female2_face.clip",
+      "pack:/intro_team_horse_lassos_lasso12.clip",
+      "pack:/intro_team_horse_lassos_lasso.clip",
+      "pack:/intro_team_horse_lassos_lasso1.clip",
+      "pack:/intro_team_horse_lassos_male13_face.clip",
+      "pack:/intro_team_horse_lassos_male10.clip",
+      "pack:/intro_team_horse_lassos_lasso15.clip",
+      "pack:/intro_team_horse_lassos_female0.clip",
+      "pack:/intro_team_horse_lassos_lasso6.clip",
+      "pack:/intro_team_horse_lassos_male1_face.clip",
+      "pack:/intro_team_horse_lassos_lassoloop.clip",
+      "pack:/intro_team_horse_lassos_male15_face.clip",
+      "pack:/intro_team_horse_lassos_male11.clip",
+      "pack:/intro_team_horse_lassos_female5_face.clip",
+      "pack:/intro_team_horse_lassos_female15.clip",
+      "pack:/intro_team_horse_lassos_female15_face.clip",
+      "pack:/intro_team_horse_lassos_lassoloop12.clip",
+      "pack:/intro_team_horse_lassos_female3_face.clip",
+      "pack:/intro_team_horse_lassos_lasso10.clip",
+      "pack:/intro_team_horse_lassos_female11_face.clip",
+      "pack:/intro_team_horse_lassos_male11_face.clip",
+      "pack:/intro_team_horse_lassos_lassoloop1.clip",
+      "pack:/intro_team_horse_lassos_lasso2.clip",
+      "pack:/intro_team_horse_lassos_female6_face.clip",
+      "pack:/intro_team_horse_lassos_lasso7.clip",
+      "pack:/intro_team_horse_lassos_lassoloop5.clip",
+      "pack:/intro_team_horse_lassos_female14.clip",
+      "pack:/intro_team_horse_lassos_female0_face.clip",
+      "pack:/intro_team_horse_lassos_male1.clip",
+      "pack:/intro_team_horse_lassos_female1_face.clip",
+      "pack:/intro_team_horse_lassos_lassorope14.clip",
+      "pack:/intro_team_horse_lassos_lassorope6.clip",
+      "pack:/intro_team_horse_lassos_lassoloop10.clip",
+      "pack:/intro_team_horse_lassos_female14_face.clip",
+      "pack:/intro_team_horse_lassos_male5_face.clip",
+      "pack:/intro_team_horse_lassos_lassoloop4.clip",
+      "pack:/intro_team_horse_lassos_male8.clip",
+      "pack:/intro_team_horse_lassos_female7.clip",
+      "pack:/intro_team_horse_lassos_male2_face.clip",
+      "pack:/intro_team_horse_lassos_male15.clip",
+      "pack:/intro_team_horse_lassos_male3.clip",
+      "pack:/intro_team_horse_lassos_lassoloop13.clip",
+      "pack:/intro_team_horse_lassos_lasso14.clip",
+      "pack:/intro_team_horse_lassos_female3.clip",
+      "pack:/intro_team_horse_lassos_lassoloop14.clip",
+      "pack:/intro_team_horse_lassos_female8_face.clip",
+      "pack:/intro_team_horse_lassos_lassoloop8.clip",
+      "pack:/intro_team_horse_lassos_female6.clip",
+      "pack:/intro_team_horse_lassos_male9.clip",
+      "pack:/intro_team_horse_lassos_male14.clip",
+      "pack:/intro_team_horse_lassos_lassorope13.clip",
+      "pack:/intro_team_horse_lassos_lassoloop9.clip",
+      "pack:/intro_team_horse_lassos_male4.clip",
+      "pack:/intro_team_horse_lassos_female12.clip",
+      "pack:/intro_team_horse_lassos_lasso8.clip",
+      "pack:/intro_team_horse_lassos_male3_face.clip",
+      "pack:/intro_team_horse_lassos_male10_face.clip",
+      "pack:/intro_team_horse_lassos_male8_face.clip",
+      "pack:/intro_team_horse_lassos_male6_face.clip",
+      "pack:/intro_team_horse_lassos_lassoloop6.clip",
+      "pack:/intro_team_horse_lassos_female4_face.clip",
+      "pack:/intro_team_horse_lassos_male14_face.clip",
+      "pack:/intro_team_horse_lassos_male0.clip",
+      "pack:/intro_team_horse_lassos_male7.clip",
+      "pack:/intro_team_horse_lassos_male9_face.clip",
+      "pack:/intro_team_horse_lassos_male13.clip",
+      "pack:/intro_team_horse_lassos_female7_face.clip",
+      "pack:/intro_team_horse_lassos_lasso3.clip",
+      "pack:/intro_team_horse_lassos_male7_face.clip",
+      "pack:/intro_team_horse_lassos_lassoloop15.clip",
+      "pack:/intro_team_horse_lassos_female9.clip",
+      "pack:/intro_team_horse_lassos_female8.clip",
+      "pack:/intro_team_horse_lassos_lassorope15.clip",
+      "pack:/intro_team_horse_lassos_female9_face.clip",
+      "pack:/intro_team_horse_lassos_female13.clip",
+      "pack:/intro_team_horse_lassos_lassoloop7.clip",
+      "pack:/intro_team_horse_lassos_lassorope12.clip",
+      "pack:/intro_team_horse_lassos_lassoloop11.clip",
+      "pack:/intro_team_horse_lassos_female11.clip",
+      "pack:/intro_team_horse_lassos_male0_face.clip",
+      "pack:/intro_team_horse_lassos_female12_face.clip",
+      "pack:/intro_team_horse_lassos_male5.clip",
+      "pack:/intro_team_horse_lassos_lasso4.clip",
+      "pack:/intro_team_horse_lassos_lassorope.clip",
+      "pack:/intro_team_horse_lassos_male12_face.clip",
+      "pack:/intro_team_horse_lassos_male2.clip",
+      "pack:/intro_team_horse_lassos_female10_face.clip"
+    ],
+    "anim_names": [
+      "cinematic_q5@biped@0_13",
+      "cinematic_q5@female@0_1",
+      "cinematic_q5@female@0_4",
+      "cinematic_q5@tr3@0_3",
+      "cinematic_q5@biped@0_4",
+      "cinematic_q5@biped@0_10",
+      "cinematic_q5@female@0_5",
+      "cinematic_q5@biped@0_9",
+      "cinematic_q5@biped@0_15",
+      "cinematic_q5@tr3@0_7",
+      "cinematic_q5@tr3@0_9",
+      "cinematic_q5@biped@0_7",
+      "cinematic_q5@tr3@0_12",
+      "cinematic_q5@tr3@0_0",
+      "cinematic_q5@biped@0_14",
+      "cinematic_q5@tr3@0_4",
+      "cinematic_q5@tr3@0_5",
+      "cinematic_q5@tr3@0_6",
+      "cinematic_q5@tr3@0_8",
+      "cinematic_q5@biped@0_5",
+      "cinematic_q5@biped@0_1",
+      "cinematic_q5@biped@0_0",
+      "cinematic_q5@biped@0_6",
+      "cinematic_q5@biped@0_12",
+      "cinematic_q5@female@0_3",
+      "cinematic_q5@tr3@0_11",
+      "cinematic_q5@female@0_0",
+      "cinematic_q5@biped@0_17",
+      "cinematic_q5@tr3@0_2",
+      "cinematic_q5@biped@0_11",
+      "cinematic_q5@biped@0_3",
+      "cinematic_q5@female@0_2",
+      "cinematic_q5@biped@0_2",
+      "cinematic_q5@tr3@0_10",
+      "cinematic_q5@tr3@0_1",
+      "cinematic_q5@biped@0_16",
+      "cinematic_q5@biped@0_8"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 102
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@loco.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@loco",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/idle.clip",
+      "pack:/cnt_idle.clip",
+      "pack:/wlk_idle.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_3",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "OzbhtGA_0x8E8BF4E2",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 3
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@pull@loosen.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@pull@loosen",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_aim_0.clip",
+      "pack:/stn_aim_225l.clip",
+      "pack:/stn_aim_90r.clip",
+      "pack:/stn_aim_90l.clip",
+      "pack:/stn_aim_225r.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "audio",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@pull@tighten_rope.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@pull@tighten_rope",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_release_0.clip",
+      "pack:/stn_release_225r.clip",
+      "pack:/stn_release_90l.clip",
+      "pack:/stn_release_225l.clip",
+      "pack:/stn_release_90r.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "audio",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@pull@yank.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@pull@yank",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_aim_225l.clip",
+      "pack:/stn_aim_90r.clip",
+      "pack:/stn_aim_90l.clip",
+      "pack:/stn_aim_225r.clip",
+      "pack:/stn_aim_0.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "audio",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@pull_off.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@pull_off",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_aim_0.clip",
+      "pack:/stn_aim_225l.clip",
+      "pack:/stn_aim_90r.clip",
+      "pack:/stn_aim_90l.clip",
+      "pack:/stn_aim_225r.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@ready.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@ready",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_aim_0.clip",
+      "pack:/stn_release_225r.clip",
+      "pack:/stn_release_90r.clip",
+      "pack:/stn_release_0.clip",
+      "pack:/stn_aim_90l.clip",
+      "pack:/intro_225l.clip",
+      "pack:/intro_0.clip",
+      "pack:/intro_225r.clip",
+      "pack:/outro_90l.clip",
+      "pack:/stn_release_90l.clip",
+      "pack:/stn_aim_225r.clip",
+      "pack:/outro_225r.clip",
+      "pack:/outro_225l.clip",
+      "pack:/intro_90l.clip",
+      "pack:/stn_aim_90r.clip",
+      "pack:/stn_aim_225l.clip",
+      "pack:/intro_90r.clip",
+      "pack:/stn_release_225l.clip",
+      "pack:/outro_90r.clip",
+      "pack:/outro_0.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_4",
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_7",
+      "biped_q5@biped@0_5",
+      "biped_q5@biped@0_6",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_3",
+      "biped_q5@biped@0_9",
+      "biped_q5@biped@0_8",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "VEuMYDA_0x550A14CF",
+      "audio",
+      "fire",
+      "lJNsmAA_0xFFFA27B8",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 20
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@reelin.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@reelin",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_aim_0.clip",
+      "pack:/stn_aim_225l.clip",
+      "pack:/stn_aim_90r.clip",
+      "pack:/stn_aim_90l.clip",
+      "pack:/stn_aim_225r.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@reelin_drag.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@reelin_drag",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_aim_225r.clip",
+      "pack:/stn_aim_0.clip",
+      "pack:/stn_aim_225l.clip",
+      "pack:/stn_aim_90r.clip",
+      "pack:/stn_aim_90l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@reelin_empty.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@reelin_empty",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_aim_225r.clip",
+      "pack:/stn_aim_0.clip",
+      "pack:/stn_aim_225l.clip",
+      "pack:/stn_aim_90r.clip",
+      "pack:/stn_aim_90l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "AlFhDLA_0xA5F6D578",
+      "FXNBaBA_0x1F30DCA7",
+      "audio",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@reelin_empty_quick.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@reelin_empty_quick",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_aim_225r.clip",
+      "pack:/stn_aim_0.clip",
+      "pack:/stn_aim_225l.clip",
+      "pack:/stn_aim_90r.clip",
+      "pack:/stn_aim_90l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "AlFhDLA_0xA5F6D578",
+      "FXNBaBA_0x1F30DCA7",
+      "audio",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@reelin_heavy.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@reelin_heavy",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_aim_225r.clip",
+      "pack:/stn_aim_0.clip",
+      "pack:/stn_aim_225l.clip",
+      "pack:/stn_aim_90r.clip",
+      "pack:/stn_aim_90l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_3",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@reelin_lead.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@reelin_lead",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_aim_225r.clip",
+      "pack:/stn_aim_0.clip",
+      "pack:/stn_aim_225l.clip",
+      "pack:/stn_aim_90r.clip",
+      "pack:/stn_aim_90l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@reelin_pull.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@reelin_pull",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_aim_225r.clip",
+      "pack:/stn_aim_0.clip",
+      "pack:/stn_aim_225l.clip",
+      "pack:/stn_aim_90r.clip",
+      "pack:/stn_aim_90l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "AlFhDLA_0xA5F6D578",
+      "FXNBaBA_0x1F30DCA7",
+      "audio",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@release_wait.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@release_wait",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_aim_225r.clip",
+      "pack:/stn_aim_0.clip",
+      "pack:/stn_aim_225l.clip",
+      "pack:/stn_aim_90r.clip",
+      "pack:/stn_aim_90l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_3",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@swing.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@swing",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_release_90r.clip",
+      "pack:/stn_release_0.clip",
+      "pack:/stn_aim_225r.clip",
+      "pack:/stn_aim_0.clip",
+      "pack:/stn_release_225r.clip",
+      "pack:/stn_aim_225l.clip",
+      "pack:/stn_aim_90r.clip",
+      "pack:/stn_aim_90l.clip",
+      "pack:/stn_release_90l.clip",
+      "pack:/stn_release_225l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "OzbhtGA_0x8E8BF4E2",
+      "audio",
+      "fire",
+      "lJNsmAA_0xFFFA27B8",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 10
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@ready_rear_turn.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@ready_rear_turn",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_225r_to_90l.clip",
+      "pack:/stn_transition_225l_to_90r.clip",
+      "pack:/stn_transition_225r_to_0.clip",
+      "pack:/stn_transition_225r_to_225l.clip",
+      "pack:/stn_transition_225l_to_225r.clip",
+      "pack:/stn_transition_225l_to_0.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "OzbhtGA_0x8E8BF4E2",
+      "UbgBpIA_0x1EFF20B5",
+      "audio",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 6
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@ready_to_swing.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@ready_to_swing",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_90l.clip",
+      "pack:/stn_transition_225r.clip",
+      "pack:/stn_transition_225l.clip",
+      "pack:/stn_transition_0.clip",
+      "pack:/stn_transition_90r.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "OzbhtGA_0x8E8BF4E2",
+      "audio",
+      "lJNsmAA_0xFFFA27B8",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_drag_rear_turn.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_drag_rear_turn",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_225l_to_90r.clip",
+      "pack:/stn_transition_225r_to_0.clip",
+      "pack:/stn_transition_225r_to_225l.clip",
+      "pack:/stn_transition_225l_to_225r.clip",
+      "pack:/stn_transition_225l_to_0.clip",
+      "pack:/stn_transition_225r_to_90l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "OzbhtGA_0x8E8BF4E2",
+      "UbgBpIA_0x1EFF20B5",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 6
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_drag_to_reelin_heavy.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_drag_to_reelin_heavy",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_0.clip",
+      "pack:/stn_transition_90r.clip",
+      "pack:/stn_transition_90l.clip",
+      "pack:/stn_transition_225r.clip",
+      "pack:/stn_transition_225l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_drag_to_reelin_lead.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_drag_to_reelin_lead",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_90l.clip",
+      "pack:/stn_transition_225r.clip",
+      "pack:/stn_transition_225l.clip",
+      "pack:/stn_transition_0.clip",
+      "pack:/stn_transition_90r.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_heavy_rear_turn.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_heavy_rear_turn",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_225l_to_0.clip",
+      "pack:/stn_transition_225r_to_90l.clip",
+      "pack:/stn_transition_225l_to_90r.clip",
+      "pack:/stn_transition_225r_to_0.clip",
+      "pack:/stn_transition_225r_to_225l.clip",
+      "pack:/stn_transition_225l_to_225r.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "OzbhtGA_0x8E8BF4E2",
+      "UbgBpIA_0x1EFF20B5",
+      "audio",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 6
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_heavy_to_reelin.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_heavy_to_reelin",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_90r.clip",
+      "pack:/stn_transition_90l.clip",
+      "pack:/stn_transition_225r.clip",
+      "pack:/stn_transition_225l.clip",
+      "pack:/stn_transition_0.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "audio",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_heavy_to_reelin_drag.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_heavy_to_reelin_drag",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_0.clip",
+      "pack:/stn_transition_90r.clip",
+      "pack:/stn_transition_90l.clip",
+      "pack:/stn_transition_225r.clip",
+      "pack:/stn_transition_225l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_lead_rear_turn.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_lead_rear_turn",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_225l_to_0.clip",
+      "pack:/stn_transition_225r_to_90l.clip",
+      "pack:/stn_transition_225l_to_90r.clip",
+      "pack:/stn_transition_225r_to_0.clip",
+      "pack:/stn_transition_225r_to_225l.clip",
+      "pack:/stn_transition_225l_to_225r.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "OzbhtGA_0x8E8BF4E2",
+      "UbgBpIA_0x1EFF20B5",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 6
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_lead_to_reelin.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_lead_to_reelin",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_90l.clip",
+      "pack:/stn_transition_225r.clip",
+      "pack:/stn_transition_225l.clip",
+      "pack:/stn_transition_0.clip",
+      "pack:/stn_transition_90r.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_lead_to_reelin_drag.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_lead_to_reelin_drag",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_90l.clip",
+      "pack:/stn_transition_225r.clip",
+      "pack:/stn_transition_225l.clip",
+      "pack:/stn_transition_0.clip",
+      "pack:/stn_transition_90r.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_rear_turn.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_rear_turn",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_225l_to_0.clip",
+      "pack:/stn_transition_225r_to_90l.clip",
+      "pack:/stn_transition_225l_to_90r.clip",
+      "pack:/stn_transition_225r_to_0.clip",
+      "pack:/stn_transition_225r_to_225l.clip",
+      "pack:/stn_transition_225l_to_225r.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "OzbhtGA_0x8E8BF4E2",
+      "UbgBpIA_0x1EFF20B5",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 6
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_to_reelin_heavy.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_to_reelin_heavy",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_0.clip",
+      "pack:/stn_transition_90r.clip",
+      "pack:/stn_transition_90l.clip",
+      "pack:/stn_transition_225r.clip",
+      "pack:/stn_transition_225l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "audio",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_to_reelin_lead.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@reelin_to_reelin_lead",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_0.clip",
+      "pack:/stn_transition_90r.clip",
+      "pack:/stn_transition_90l.clip",
+      "pack:/stn_transition_225r.clip",
+      "pack:/stn_transition_225l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@release_wait_rear_turn.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@release_wait_rear_turn",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_225r_to_90l.clip",
+      "pack:/stn_transition_225l_to_90r.clip",
+      "pack:/stn_transition_225r_to_0.clip",
+      "pack:/stn_transition_225r_to_225l.clip",
+      "pack:/stn_transition_225l_to_225r.clip",
+      "pack:/stn_transition_225l_to_0.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "OzbhtGA_0x8E8BF4E2",
+      "UbgBpIA_0x1EFF20B5",
+      "audio",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 6
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@swing_rear_turn.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@swing_rear_turn",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_225l_to_90r.clip",
+      "pack:/stn_transition_225r_to_0.clip",
+      "pack:/stn_transition_225r_to_225l.clip",
+      "pack:/stn_transition_225l_to_225r.clip",
+      "pack:/stn_transition_225l_to_0.clip",
+      "pack:/stn_transition_225r_to_90l.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "OzbhtGA_0x8E8BF4E2",
+      "UbgBpIA_0x1EFF20B5",
+      "audio",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 6
+  },
+  {
+    "file": "veh_horseback@aim@front@special@lasso@base@transitions@swing_to_ready.ycd.xml",
+    "dict_name": "veh_horseback@aim@front@special@lasso@base@transitions@swing_to_ready",
+    "clip_count": 0,
+    "clip_names": [
+      "pack:/stn_transition_90r.clip",
+      "pack:/stn_transition_90l.clip",
+      "pack:/stn_transition_225r.clip",
+      "pack:/stn_transition_225l.clip",
+      "pack:/stn_transition_0.clip"
+    ],
+    "anim_names": [
+      "biped_q5@biped@0_1",
+      "biped_q5@biped@0_2",
+      "biped_q5@biped@0_0"
+    ],
+    "bone_refs": [],
+    "string_values": [],
+    "tag_names": [
+      "FXNBaBA_0x1F30DCA7",
+      "OzbhtGA_0x8E8BF4E2",
+      "audio",
+      "rutpiBA_0x7EA9DFC4",
+      "vcoNjFA_0x0E2623A6"
+    ],
+    "duration_count": 5
+  }
+]
